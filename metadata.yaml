@@ -8,12 +8,17 @@ contributor:
     deathdate: 1903
     gutenberg_agent_id: '37801'
     url: http://www.gutenberg.org/2009/agents/37801
+covers:
+- cover_type: archival
+  image_path: 74822-h/images/cover-deco.jpg
 creator:
   author:
     agent_name: Jambon, Jean
     gutenberg_agent_id: '57668'
     url: http://www.gutenberg.org/2009/agents/57668
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74822#Our-trip-to-Blunderland-b-or-grand-excursion-to-Blundertown-and-back
 gutenberg_issued: '2024-11-30'
 gutenberg_type: Text
 identifiers:
